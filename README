@@ -1,0 +1,13 @@
+DEAD DOVE DO NOT EAT
+
+TODO:
+
+- Name project
+- Handle errors and edge cases
+- More providers
+- Handle domain creation
+- Handle record deletion (How do we do this safely?)
+- Handle TTL
+- More logging/useful output
+- Handling custom record types (ANAME, ALIAS, etc)
+- Syntactic sugar for root and *

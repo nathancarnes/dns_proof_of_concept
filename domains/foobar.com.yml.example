@@ -1,0 +1,6 @@
+www:
+  type: CNAME
+  content: heyyeyaaeyaaaeyaeyaa.com
+'':
+  type: A
+  content: 55.55.55.55
